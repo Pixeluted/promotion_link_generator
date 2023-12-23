@@ -1,0 +1,5 @@
+/target
+/.cargo
+/.vscode
+links.txt
+proxies.txt
